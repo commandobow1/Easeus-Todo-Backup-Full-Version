@@ -239,3 +239,6 @@ This repository serves as the official landing page for EaseUS Todo Backup. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of EaseUS Todo Backup today!**
+
+---
+**Last updated:** 2026-09-07 23:21:09 UTC
