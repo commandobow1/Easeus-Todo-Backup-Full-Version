@@ -241,4 +241,4 @@ This repository serves as the official landing page for EaseUS Todo Backup. The 
 **Get the most recent version of EaseUS Todo Backup today!**
 
 ---
-**Last updated:** 2026-09-08 23:16:06 UTC
+**Last updated:** 2026-09-09 03:56:21 UTC
